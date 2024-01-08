@@ -1,6 +1,13 @@
 # <p align="center" style="font-size: 60px;"><strong>Velib Cycling Stations Monitoring</strong> </p> 
 
-[Overview](#overview) | [JCDecaux API Documentation](#jcdecaux-api-documentation) | [Architecture](#architecture) | [Running the Application](#running-the-application) | [Deployment](#deployment)
+<p align="center">
+  <a href="#overview">Overview</a> | 
+  <a href="#jcdecaux-api-documentation">JCDecaux API Documentation</a> | 
+  <a href="#architecture">Architecture</a> | 
+  <a href="#running-the-application">Running the Application</a> | 
+  <a href="#deployment">Deployment</a>
+</p>
+
 
 
 
