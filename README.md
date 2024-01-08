@@ -59,8 +59,7 @@ Now all the required technologies are set up in Docker containers, eliminating t
 Open your browser and go to http://localhost:5601 to access the Kibana dashboard.
 All visualizations are preconfigured and will load automatically.
             
-![Architecture](/media/map2.png)          
-![Architecture](/media/pie.png)    
+![Architecture](/media/map2.png) ![Architecture](/media/pie.png)
 ![Architecture](/media/courba1.png)  
 
 #### 5-Stop the Application::
