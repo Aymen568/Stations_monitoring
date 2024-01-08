@@ -59,8 +59,8 @@ Now all the required technologies are set up in Docker containers, eliminating t
 Open your browser and go to http://localhost:5601 to access the Kibana dashboard.
 All visualizations are preconfigured and will load automatically.
             
-![Architecture](/media/Screenshot 2024-01-07 220135.png)          
-![Architecture](/media/Screenshot 2024-01-07 220044.png)    
+![Architecture]("/media/Screenshot 2024-01-07 220135.png")          
+![Architecture]("/media/Screenshot 2024-01-07 220044.png")    
 ![Architecture](/media/courba1.png)  
 
 #### 5-Stop the Application::
@@ -68,31 +68,3 @@ All visualizations are preconfigured and will load automatically.
 To stop the application and free up resources, run:
 
     - docker-compose down
-
-
-
-## Tools
-
-- Frontend Development: Streamlit
-- Backend Development: Flask
-- Database: Elastic-search
-- Deployment: Docker
-
-
-
-## Installation
-In order to reproduce the project you have to:
-
-    1- Clone the repository.
-
-    2- Move to the project directory.
-
-    3- Get the data index.
-
-        * Create a new index: execute the file create_index_flickrphotos.
-        * Execute the file mapping.py
-            
-
-    4- Run docker-compose up --build Once these steps are done, the web application should start in the browser.
-
-## Requirements
