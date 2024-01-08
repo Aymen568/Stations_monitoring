@@ -60,8 +60,8 @@ Open your browser and go to http://localhost:5601 to access the Kibana dashboard
 All visualizations are preconfigured and will load automatically.
             
 <p float="left">
-  <img src="/media/map2.png" width="600" />
-  <img src="/media/pie.png" width="600" /> 
+  <img src="/media/map2.png" width="450" />
+  <img src="/media/pie.png" width="450" /> 
 </p>
 
 ![Architecture](/media/courba1.png)  
